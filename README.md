@@ -31,6 +31,7 @@ Currently, no tests are included in this project.
 
 ## Questions
 Find me on GitHub: [HPoyfair](https://github.com/HPoyfair)
+Walkthrough Video: https://youtu.be/DpBrOx3UowY
 
 For additional questions, reach me via email at: Haydenpoyfair@gmail.com
 
